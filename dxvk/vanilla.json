@@ -1,5 +1,23 @@
 [
     {
+        "name": "dxvk-2.2-2-bd575a4",
+        "title": "2.2 (dev 15.06.2023)",
+        "version": "2.2-56-gbd575a4a",
+        "uri": "https://github.com/bottlesdevs/components/releases/download/dxvk-2.2-2-bd575a4/dxvk-2.2-2-bd575a4.tar.gz",
+        "features": {
+            "recommended": false
+        }
+    },
+    {
+        "name": "dxvk-2.2-1-8b6cbda",
+        "title": "2.1 (dev 31.05.2023)",
+        "version": "2.2-21-g8b6cbda6",
+        "uri": "https://github.com/bottlesdevs/components/releases/download/dxvk-2.2-1-8b6cbda/dxvk-2.2-1-8b6cbda.tar.gz",
+        "features": {
+            "recommended": false
+        }
+    },
+    {
         "name": "dxvk-2.2",
         "title": "2.2",
         "version": "2.2",
