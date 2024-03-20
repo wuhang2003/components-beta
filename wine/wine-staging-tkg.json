@@ -1,5 +1,49 @@
 [
     {
+        "name": "wine-9.4-staging-tkg-amd64",
+        "title": "Wine-Staging-TkG 9.4",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.4/wine-9.4-staging-tkg-amd64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-9.3-staging-tkg-amd64",
+        "title": "Wine-Staging-TkG 9.3",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.3/wine-9.3-staging-tkg-amd64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-9.2-staging-tkg-amd64",
+        "title": "Wine-Staging-TkG 9.2",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.2/wine-9.2-staging-tkg-amd64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-9.1-staging-tkg-amd64",
+        "title": "Wine-Staging-TkG 9.1",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.1/wine-9.1-staging-tkg-amd64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
         "name": "wine-9.0-staging-tkg-amd64",
         "title": "Wine-Staging-TkG 9.0",
         "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.0/wine-9.0-staging-tkg-amd64.tar.xz",
