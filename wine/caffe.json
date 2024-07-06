@@ -1,0 +1,46 @@
+[
+    {
+        "name": "caffe-9.7-x86_64",
+        "title": "Caffe 9.7",
+        "uri": "https://github.com/bottlesdevs/wine/releases/download/caffe-9.7/caffe-9.7-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "caffe-9.2-x86_64",
+        "title": "Caffe 9.2",
+        "uri": "https://github.com/bottlesdevs/wine/releases/download/caffe-9.2/caffe-9.2-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "caffe-8.21-x86_64",
+        "title": "Caffe 8.21",
+        "uri": "https://github.com/bottlesdevs/wine/releases/download/caffe-8.21/caffe-8.21-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "caffe-8.18-x86_64",
+        "title": "Caffe 8.18",
+        "uri": "https://github.com/bottlesdevs/wine/releases/download/caffe-8.18/caffe-8.18-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    }
+]

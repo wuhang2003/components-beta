@@ -24,6 +24,10 @@
             }
         },
         {
+            "name": "caffe",
+            "title": "Caffe"
+        },
+        {
             "name": "soda",
             "title": "Soda"
         },
